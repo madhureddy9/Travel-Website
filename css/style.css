@@ -52,10 +52,10 @@ header{
 	transition: ease .40s;
 }
 .navbar a:hover{
-	background: var(--bg-color);
-	color: var(--text-color);
+	color: #221314;
+	background: orangered;
 	box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
-	border-radius: 4px;
+	border-radius: 20px;
 }
 #menu-icon{
 	color: var(--bg-color);
